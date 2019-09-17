@@ -1,7 +1,7 @@
 &sprofile
 s_prof_method = 1,
 s_analyt_method = 2,
-z_s1 = 20,
+z_s1 = 40,
 s_1 = 33.5,
 z_s2 = 40.0,
 s_2 = 34.0,
@@ -17,7 +17,7 @@ SRelaxSurf = 0.0,
 &tprofile
 t_prof_method = 1,
 t_analyt_method = 2,
-z_t1 = 20,
+z_t1 = 40,
 t_1 = 10.0,
 z_t2 = 40.0,
 t_2 = 7.0,
