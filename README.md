@@ -8,4 +8,6 @@ The purpose of the particle model is to demonstrate the difference between using
 
 One of the diffusivity profiles have been derived from a GOTM simulation. The setup files and result file from the GOTM run is also included.
 
+A publication (open access) describing the theory and implementation is available here: [https://www.sciencedirect.com/science/article/pii/S0025326X19305338](www.sciencedirect.com/science/article/pii/S0025326X19305338)
+
 [![DOI](https://zenodo.org/badge/169890560.svg)](https://zenodo.org/badge/latestdoi/169890560)
